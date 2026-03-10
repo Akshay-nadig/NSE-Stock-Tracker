@@ -163,7 +163,6 @@ Deployment on cloud environment
 Developer Information
 
 Project Title: MarketPulse
-Developed By: Dhruva D
-Role: Full Stack Developer
+Developed By: Akshay Nadig
 Technologies: PHP, MySQL, HTML, CSS, JavaScript
 Year: 2025
